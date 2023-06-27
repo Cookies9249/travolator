@@ -3,7 +3,9 @@
 Travolator is a website that uses AI to generate an itinerary given an origin and destination, using Geoapify API, OpenAI API, and Google Maps functionality to provide real-world information.
 
 Built With: HTML, CSS, JavaScipt, Python
+
 Libraries: Streamlit
+
 APIs: Geoapify, OpenAI
 
 ## Inspiration
