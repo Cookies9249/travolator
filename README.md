@@ -28,3 +28,7 @@ Through the development of Travolator, we learned that creating a seamless and f
 
 ## What's next
 Next on our roadmap for Travolator, we have exciting plans to enhance the site map and planning capabilities of the platform. Our aim is to provide users with a comprehensive and interactive tool that assists in visualizing their travel itineraries and optimizing their time and costs.
+
+## Requires
+* streamlit
+* streamlit_extras
